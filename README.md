@@ -13,3 +13,8 @@ Add an id to "search-engine-optimization" in order for the "Search Engine Optimi
 
 Remove "</img>". The img tab does not need a closing like this. It only requires this closing />
 
+
+Sidebar:
+Add alt="" to the img tag to skip over the .svg file for accessibility purposes.
+
+
