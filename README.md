@@ -5,6 +5,7 @@ Added HTML & CSS comments before each element or section on the page.
 
 Header:
 Change first div to header and use nav element for the navagation on the website.
+Change div to nav in CSS.
 
 
 Hero:
