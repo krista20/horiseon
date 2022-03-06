@@ -5,3 +5,7 @@ Added HTML & CSS comments before each element or section on the page.
 
 Header:
 Change first div to header and use nav element for the navagation on the website.
+
+
+Hero:
+Add an id to "search-engine-optimization" in order for the "Search Engine Optimization" button to work on the nav bar.
