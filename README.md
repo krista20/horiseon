@@ -10,8 +10,9 @@ Change div to nav in CSS.
 
 Hero:
 Add an id to "search-engine-optimization" in order for the "Search Engine Optimization" button to work on the nav bar.
-Use section element instead of div to describe the 3 sections in the hero.
+Use section element instead of div and article instead of div, to describe the 3 articles in the hero section.
 Remove "</img>". The img tab does not need a closing like this. It only requires this closing />
+Use alt description for photos.
 
 
 Sidebar:
