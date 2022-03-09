@@ -1,7 +1,7 @@
 # Code Refactor Starter Code
 Challenge 1: Git challenge: Code Refractor
 
-Below are some changes that were done to better organize the coding for accessibiltiy purposes and for the developer to read the code easier.
+Below are some changes that were done to better organize the coding for accessibility purposes and for the developer to read the code easier.
 ________________
 Title in header:
 Change file name & HTML title to "horiseon" for better accessibility.
@@ -9,12 +9,12 @@ Change file name & HTML title to "horiseon" for better accessibility.
 ________________
 Comments on Code for better organization:
 Added HTML & CSS comments before each element or section on the page. Example shown below:
-<img scr="./assets/readme_imgs/include-comments-css.png" alt="code"/>
-<img scr="./assets/readme_imgs/include-comments-html.png" alt="code"/>
+![](/assets/readme_imgs/include-comments-css.png)
+![](/assets/readme_imgs/include-comments-css.png)
 
 ________________
 Header:
-Used nav element for the top navagation.
+Used nav element for the top navigation.
 
 ________________
 Hero:
@@ -31,12 +31,13 @@ Add alt="" to the img tag to skip over the .png file for accessibility purposes.
 
 ________________
 Summary:
-Eliminated extra unessesary CSS styles, and combined styles that were related for clear code base.
+Eliminated extra unnecessary CSS styles, and combined styles that were related for clear code base.
 
 Commited and pushed files to GitHub often.
 
 ________________
 Link to Horiseon Website:
+https://krista20.github.io/horiseon/
 
 
 
