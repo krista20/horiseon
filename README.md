@@ -31,6 +31,8 @@ Add alt="" to the img tag to skip over the .png file for accessibility purposes.
 
 ________________
 Summary:
+Included semantic HTML elements.
+
 Eliminated extra unnecessary CSS styles, and combined styles that were related for clear code base.
 
 Commited and pushed files to GitHub often.
