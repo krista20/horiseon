@@ -9,7 +9,7 @@ Change file name & HTML title to "horiseon" for better accessibility.
 ________________
 Comments on Code for better organization:
 Added HTML & CSS comments before each element or section on the page. Example shown below:
-![](/assets/readme_imgs/include-comments-css.png)
+![](/assets/readme_imgs/include-comments-html.png)
 ![](/assets/readme_imgs/include-comments-css.png)
 
 ________________
